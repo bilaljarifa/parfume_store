@@ -1,0 +1,10 @@
+{
+    "name": "TwinScent Parfum Store",
+    "short_name": "TwinScent",
+    "description": "Luxury perfume store with premium fragrances",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FDFCFB",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary"
+}
